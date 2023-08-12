@@ -25,5 +25,5 @@ In this project, we tackle cement strength prediction using regression technique
 
 - ## Datasets
 
-- Gender Classification Project Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/your-gender-classification-dataset)
-- Cement Strength Regression Project Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/your-cement-strength-dataset)
+- Gender Classification Project Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset)
+- Cement Strength Regression Project Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/datasets/prathamtripathi/regression-with-neural-networking)
