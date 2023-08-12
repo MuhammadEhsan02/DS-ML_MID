@@ -9,7 +9,7 @@ This project focuses on predicting gender using machine learning and deep learni
 - Conducted exploratory data analysis (EDA) for better understanding, including count plots and image visualization.
 - Implemented a baseline SVM (LinearSVC) model for initial gender classification.
 - Developed a Convolutional Neural Network (CNN) model with multiple Conv2D and Maxpooling2D layers to improve accuracy.
-- Achieved a test accuracy of over 90% using the CNN model.
+- Achieved a test accuracy of over 95% using the CNN model.
 - Leveraged libraries such as Keras, scikit-learn, and matplotlib for model development and visualization.
 
 ## Cement Strength Regression Project
