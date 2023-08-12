@@ -22,3 +22,8 @@ In this project, we tackle cement strength prediction using regression technique
 - Utilized Linear, Ridge, and Lasso Regression algorithms to predict cement strength.
 - Developed a custom neural network architecture tailored to the regression problem, achieving a lower test mean squared error compared to traditional regression models.
 - Made use of libraries like scikit-learn, TensorFlow, and Keras for regression modeling and neural network development.
+
+- ## Datasets
+
+- Gender Classification Project Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/your-gender-classification-dataset)
+- Cement Strength Regression Project Dataset: [Link to Kaggle Dataset](https://www.kaggle.com/your-cement-strength-dataset)
